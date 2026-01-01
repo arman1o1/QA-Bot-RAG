@@ -7,8 +7,6 @@
 
 A lightweight **Retrieval-Augmented Generation (RAG)** chatbot that allows you to upload a PDF and ask questions answered **strictly from the document’s content**.
 
-Designed to run **safely on Hugging Face Spaces (CPU)** with no persistent storage, no cross-user data leakage, and no external APIs.
-
 ---
 
 ## 🖼️ App Demo Screenshot
