@@ -125,6 +125,3 @@ Model licenses:
 
 * `google/flan-t5-base` – Apache 2.0
 * `all-MiniLM-L6-v2` – Apache 2.0
-
-```
-```
