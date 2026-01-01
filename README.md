@@ -19,7 +19,6 @@ A lightweight **Retrieval-Augmented Generation (RAG)** chatbot that allows you t
 * **PDF Question Answering:** Upload any PDF and ask natural-language questions.
 * **Grounded Answers:** The model is explicitly instructed to answer only from retrieved context.
 * **Source Citations:** Displays the document source and page numbers for transparency.
-* **Multi-User Safe:** No global state, no persistent vector databases.
 * **CPU-Friendly:** Uses lightweight embedding and language models.
 * **No API Keys:** Runs fully offline after model download.
 
