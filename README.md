@@ -123,5 +123,5 @@ The code in this repository is licensed under the **MIT License**.
 
 Model licenses:
 
-* `[google/flan-t5-base](https://huggingface.co/google/flan-t5-base)` – Apache 2.0
-* `[all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)` – Apache 2.0
+* [`google/flan-t5-base`](https://huggingface.co/google/flan-t5-base) – Apache 2.0
+* [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) – Apache 2.0
