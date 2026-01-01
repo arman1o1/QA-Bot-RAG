@@ -65,7 +65,7 @@ This follows a standard **RAG pipeline**, optimized for correctness and simplici
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/arman1o1/pdf-rag-chatbot.git
+git clone https://github.com/arman1o1/QA-Bot-RAG.git
 cd pdf-rag-chatbot
 ````
 
