@@ -1,0 +1,11 @@
+gradio
+torch
+transformers
+accelerate
+chromadb
+pypdf
+sentence-transformers
+# Pin LangChain to v0.3 to keep legacy chains support
+langchain>=0.3.0,<1.0.0
+langchain-community>=0.3.0,<1.0.0
+langchain-text-splitters
